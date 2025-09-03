@@ -9,7 +9,7 @@ A passionate Software Engineer with strong problem-solving skills and a keen int
 <p align="center">
   <img src="https://github.com/ainalaaishwarya3-blip/ainalaaishwarya3-blip/blob/main/githubimg.png"
        alt="Girl coding in front of laptop with city night view"
-       width="500" />
+       width="350" />
 </p>
 
 
