@@ -5,9 +5,10 @@
 ## I'm Aishwarya Ainala 🙋‍♀️⚡  
 
 A passionate Software Engineer with strong problem-solving skills and a keen interest in **Software Development** and **Cloud Computing**.  
-
-  <img src="https://raw.githubusercontent.com/ainalaaishwarya3-blip/ainalaaishwarya3-blip/main/assets/coder-girl.gif" 
-       alt="Cute cartoon girl coding with glasses" width="400" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ainalaaishwarya3-blip/ainalaaishwarya3-blip/main/assets/city-night-coder.png" 
+       alt="Girl coding in front of laptop with city night view" width="500" />
+</p>
 
 ---
 
