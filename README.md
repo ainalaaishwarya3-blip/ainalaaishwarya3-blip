@@ -61,8 +61,8 @@ A passionate Software Engineer with strong problem-solving skills and a keen int
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ainalaaishwarya3-blip&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainalaaishwarya3-blip&layout=compact&theme=tokyonight" alt="Top languages" height="180"/>
 </p>  
 
 ---
@@ -70,9 +70,9 @@ A passionate Software Engineer with strong problem-solving skills and a keen int
 ## 🌐 Let's Connect  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://www.instagram.com/your-instagram/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+  <a href="https://www.linkedin.com/in/aishwaryaainala-123abc/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/indhu_aishu/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+  <a href="https://x.com/AishwaryaA_2001"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 </p>
 
 
