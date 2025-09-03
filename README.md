@@ -7,8 +7,9 @@
 A passionate Software Engineer with strong problem-solving skills and a keen interest in **Software Development** and **Cloud Computing**.  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ainalaaishwarya3-blip/main/assets/coder-night.png"
-       alt="Girl coding in front of laptop with city night view" width="500" />
+  <img src="https://i.ibb.co/8XB9kZq/coding-girl-night.gif"
+       alt="Girl coding in front of laptop with city night view"
+       width="500" />
 </p>
 
 
