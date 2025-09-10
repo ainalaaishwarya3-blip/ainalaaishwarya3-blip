@@ -58,15 +58,6 @@ A passionate Software Engineer with strong problem-solving skills and a keen int
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ainalaaishwarya3-blip&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainalaaishwarya3-blip&layout=compact&theme=tokyonight" alt="Top languages" height="180"/>
-</p>  
-
----
-
 ## 🌐 Let's Connect  
 
 <p align="left">
